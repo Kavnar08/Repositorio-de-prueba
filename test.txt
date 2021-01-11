@@ -5,3 +5,5 @@ cambio 2 cambio rama bugfix
 cambio 3
 
 cambio en rama bugfix
+
+intento de conflicto desde rama bugfix
